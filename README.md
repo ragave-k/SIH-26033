@@ -51,7 +51,9 @@ HarvestLoop reduces the need for several separate traders by combining three thi
 - Payments: A secure payment gateway that supports the selected region’s payment methods.
 - Hosting: A cloud platform such as AWS, Azure, or Google Cloud.
 - Optional hardware: Android smartphones for farmers and delivery partners; QR-code labels for identifying produce batches at collection points.
+  
 2. Methodology and Implementation Process
+
 1. Gather requirements: Identify the needs of farmers, buyers, and delivery partners; define user roles and essential features.
 2. Design the prototype: Create app screens for registration, produce listings, search, ordering, payment, and delivery tracking.
 3. Build the platform: Develop the mobile app, web dashboard, backend APIs, and database.
