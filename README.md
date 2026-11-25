@@ -54,12 +54,12 @@ HarvestLoop reduces the need for several separate traders by combining three thi
   
 2. Methodology and Implementation Process
 
-1. Gather requirements: Identify the needs of farmers, buyers, and delivery partners; define user roles and essential features.
-2. Design the prototype: Create app screens for registration, produce listings, search, ordering, payment, and delivery tracking.
-3. Build the platform: Develop the mobile app, web dashboard, backend APIs, and database.
-4. Add core features: Enable produce listings, nearby matching, grouped orders, digital payments, notifications, and order tracking.
-5. Pilot locally: Test with a small group of farmers and buyers; collect feedback on usability, pricing, and delivery.
-6. Improve and expand: Fix issues from the pilot, add requested features, and gradually onboard more users and locations.
+- Gather requirements: Identify the needs of farmers, buyers, and delivery partners; define user roles and essential features.
+-  Design the prototype: Create app screens for registration, produce listings, search, ordering, payment, and delivery tracking.
+- Build the platform: Develop the mobile app, web dashboard, backend APIs, and database.
+- Add core features: Enable produce listings, nearby matching, grouped orders, digital payments, notifications, and order tracking.
+- Pilot locally: Test with a small group of farmers and buyers; collect feedback on usability, pricing, and delivery.
+- Improve and expand: Fix issues from the pilot, add requested features, and gradually onboard more users and locations.
 
    
 ## Feasibility and Viability
